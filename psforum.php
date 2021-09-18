@@ -14,7 +14,7 @@
 /**
  * Plugin Name: PS Forum
  * Plugin URI:  https://n3rds.work/piestingtal_source/ps-forum-plugin/
- * Description: PSForum ist eine einfache, aber unendlich leistungsstarke Forensoftware, die auf Basis von bbPress 2.5 für ClassicPress weiterentwickelt wird.
+ * Description: PS Forum ist eine einfache, aber unendlich leistungsstarke Forensoftware, die auf Basis von bbPress 2.5 für ClassicPress weiterentwickelt wird.
  * Author:      WMS N@W
  * Author URI:  https://n3rds.work
  * Version:     2.6.2

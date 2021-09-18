@@ -9,16 +9,22 @@ Requires PHP: 7.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Ein großartiges Plugin, das eine globale Suche in allen Blogs auf Deiner WordPress Multisite/BuddyPress-Installation mit Leichtigkeit ermöglicht!
+PS Forum ist eine einfache, aber unendlich leistungsstarke Forensoftware, die auf Basis von bbPress 2.5 für ClassicPress weiterentwickelt wird.
 
 == Description ==
 
-Netzwerksuche nutzt die Leistungsfähigkeit von PS-Multisite Beitragsindex , um eine leistungsstarke netzwerkweite Beitrags-Suche zu ermöglichen.
-Multisite und BuddyPress bieten keine Möglichkeit, Blogs in einem gesamten Netzwerk zu durchsuchen.
+Mit PS Forum kannst Du Beiträgen oder Seiten in einem gesamten Multisite-Netzwerk Forum Boards hinzufügen.
+Öffne mit Foren neue Kommunikationswege auf Deiner Webseite.
 
-Blitzschnelle Ergebnisse
-Netzwerksuche verwendet unser leistungsstarkes PS-Multisite Beitragsindex Plugin, das alle Beiträge auf jeder Seite in Deinem Netzwerk indiziert, 
-um eine blitzschnelle Suche in Deinem gesamten Netzwerk zu erstellen.
+Erstaunlich einfach
+Füge Deiner Webseite mit nur wenigen Klicks ein Forum hinzu und fördere die Teilnahme der Community.
+
+[POWERED BY PSOURCE](https://n3rds.work/psource_kategorien/psource-plugins/)
+
+[Projektseite](https://n3rds.work/piestingtal_source/ps-forum-plugin/)
+[Handbuch](https://n3rds.work/docs/ps-forum-plugin-handbuch/)
+[Supportforum](https://n3rds.work/forums/forum/psource-support-foren/ps-forum-supportforum/)
+[GitHub](https://github.com/piestingtal-source/ps-forum)
 
 == Screenshots ==
 
